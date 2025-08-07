@@ -1,0 +1,2 @@
+# LootMogul
+Loot mogul repository
